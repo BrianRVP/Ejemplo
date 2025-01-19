@@ -1,8 +1,6 @@
 #EXTM3U
 
-
-
-#EXTGRP: Temporada 2
+#EXTGRP: Temporada 2 
 #EXTINF:- tvg-logo="https://image.tmdb.org/t/p/original/8oq118OTYuftOu7lmxIbzB31JzK.jpg", 1
 https://github.com/BrianRVP/Prueba-plugins-/releases/download/93.3.9/Ver.Besos.Kitty.2x1.Online.Gratis.-.Cuevana.mp4
 #EXTINF:- tvg-logo="https://image.tmdb.org/t/p/original/8oq118OTYuftOu7lmxIbzB31JzK.jpg", 2
@@ -10,15 +8,12 @@ https://github.com/BrianRVP/Prueba-plugins-/releases/download/93.3.9/Ver.Besos.K
 #EXTINF:- tvg-logo="https://image.tmdb.org/t/p/original/8oq118OTYuftOu7lmxIbzB31JzK.jpg", 3
 https://github.com/BrianRVP/Prueba-plugins-/releases/download/93.3.9/Ver.Besos.Kitty.2x3.Online.Gratis.-.Cuevana.mp4
 #EXTINF:- tvg-logo="https://image.tmdb.org/t/p/original/8oq118OTYuftOu7lmxIbzB31JzK.jpg", 4
-
+https://github.com/BrianRVP/Prueba-plugins-/releases/download/289.3.9/Ver.Besos.Kitty.2x4.Online.Gratis.-.Cuevana.mp4
 #EXTINF:- tvg-logo="https://image.tmdb.org/t/p/original/8oq118OTYuftOu7lmxIbzB31JzK.jpg", 5
-
+https://github.com/BrianRVP/Prueba-plugins-/releases/download/289.3.9/Ver.Besos.Kitty.2x5.Online.Gratis.-.Cuevana.mp4
 #EXTINF:- tvg-logo="https://image.tmdb.org/t/p/original/8oq118OTYuftOu7lmxIbzB31JzK.jpg", 6
-
+https://github.com/BrianRVP/Prueba-plugins-/releases/download/289.3.9/Ver.Besos.Kitty.2x6.Online.Gratis.-.Cuevana.mp4
 #EXTINF:- tvg-logo="https://image.tmdb.org/t/p/original/8oq118OTYuftOu7lmxIbzB31JzK.jpg", 7
-
-#EXTINF:- tvg-logo="https://image.tmdb.org/t/p/original/8oq118OTYuftOu7lmxIbzB31JzK.jpg", 8
-
-#EXTINF:- tvg-logo="https://image.tmdb.org/t/p/original/8oq118OTYuftOu7lmxIbzB31JzK.jpg", 9
-
-#EXTINF:- tvg-logo="https://image.tmdb.org/t/p/original/8oq118OTYuftOu7lmxIbzB31JzK.jpg", 10
+https://github.com/BrianRVP/Prueba-plugins-/releases/download/289.3.9/Ver.Besos.Kitty.2x7.Online.Gratis.-.Cuevana.mp4
+#EXTINF:- tvg-logo="https://image.tmdb.org/t/p/original/8oq118OTYuftOu7lmxIbzB31JzK.jpg", 8 
+https://github.com/BrianRVP/Prueba-plugins-/releases/download/2.1.2/Ver.Besos.Kitty.2x8.Online.Gratis.-.Cuevana.mp4
